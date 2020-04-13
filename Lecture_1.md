@@ -19,6 +19,14 @@ parse_dates: converted into date_time
 sales_time.dt...
 
 
+- train_cats: same mapping between of categorical variable between train and validation datasets
+
+- order does not make much difference
+
+- For RF its more like I am in Medium rather than low or high 
+- How will order help in RF
+- -1 for na
+
 
 Date-Time: depending on what you are doing
 - mont, date, year
@@ -32,3 +40,5 @@ Date-Time: depending on what you are doing
 
 **Python attribute**
 getattr()
+
+
