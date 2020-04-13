@@ -26,6 +26,7 @@ sales_time.dt...
 - For RF its more like I am in Medium rather than low or high 
 - How will order help in RF
 - -1 for na
+- diff between set_categories vs get_dummies
 
 
 Date-Time: depending on what you are doing
